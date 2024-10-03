@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <item android:title="Services">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_ninja"
+                    android:title="Service List"
+                    android:icon="@drawable/ic_service"/>
+                <item
+                    android:id="@+id/done_list"
+                    android:title="Approval List"
+                    android:icon="@drawable/done"/>
+              <!--  <item
+                    android:id="@+id/parts"
+                    android:title="Parts"
+                    android:icon="@drawable/done"/>-->
+
+
+            </group>
+        </menu>
+
+    </item>
+
+
+
+
+    <item android:title="Profile">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:title="Login"
+                    android:icon="@drawable/ic_login"/>
+                <item
+                    android:id="@+id/nav_profile"
+                    android:title="Profile"
+                    android:icon="@drawable/ic_profile"/>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Logout"
+                    android:icon="@drawable/ic_logout"/>
+                </group>
+            </menu>
+
+        </item>
+
+
+
+</menu>

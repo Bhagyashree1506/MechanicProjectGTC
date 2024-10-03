@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geartocare.mechanicP">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/g2cicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/g2cicon_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.PartsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.DoneListActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.ImageViewerActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.DirectCaptureActivity"
+            android:exported="true" />
+        <activity android:name="com.geartocare.mechanicP.Activities.ImageListActivity" />
+        <activity android:name="com.geartocare.mechanicP.Activities.UploadImageActivity" />
+        <activity android:name="com.geartocare.mechanicP.Activities.ServiceDetailActivity" />
+        <activity android:name="com.geartocare.mechanicP.Activities.resetPasswordActivity" />
+        <activity android:name="com.geartocare.mechanicP.Activities.VerifyPhoneNo" />
+        <activity android:name="com.geartocare.mechanicP.Activities.ServiceListActivity" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.UserProfileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.ForgotPasswordActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.LoginActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.StartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.geartocare.mechanicP.Activities.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

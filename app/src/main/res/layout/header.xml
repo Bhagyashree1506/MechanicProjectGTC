@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/yelight"
+    android:gravity="bottom"
+    android:paddingTop="40dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:elevation="5dp">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toTopOf="@id/mech"
+        app:layout_constraintStart_toStartOf="@id/mech"
+        app:layout_constraintEnd_toEndOf="@id/mech"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/mechanic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/mech"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:text="GearToCare"
+        app:layout_constraintBottom_toTopOf="@id/www"
+        app:layout_constraintStart_toStartOf="@id/www"
+        app:layout_constraintEnd_toEndOf="@id/www"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/www"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:text="www.geartocare.com"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

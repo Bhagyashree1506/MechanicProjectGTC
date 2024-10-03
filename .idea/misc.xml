@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/drawable-hdpi/progress_back.xml" value="0.199" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/drawable-hdpi/rotating_icon.xml" value="0.199" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_done_list.xml" value="0.21927083333333333" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_image_list.xml" value="0.21927083333333333" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_reset_password.xml" value="0.33" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_service_detail.xml" value="0.21927083333333333" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_todays_service.xml" value="0.21927083333333333" />
+        <entry key="..\:/--- STUFF ---/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/custom_progress.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/drawable-xxxhdpi/ic_edit.xml" value="0.23" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_direct_capture.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_parts.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_service_detail.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/activity_todays_service.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/card_part.xml" value="0.5" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/edit_vehicle.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/layout/payment_confirmation_card.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Coding/Andriod Studio/Prototype/Mechanic_Proto/app/src/main/res/menu/main_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/------- STUFF -------/Work/Project/APPS/PROTOTYPE/Mechanic_Proto/app/src/main/res/layout/payment_confirmation_card.xml" value="0.21875" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_direct_capture.xml" value="0.19375" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_done_list.xml" value="0.1765625" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_image_list.xml" value="0.5" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_image_viewer.xml" value="0.1765625" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_login.xml" value="0.19375" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_service_detail.xml" value="0.16" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_todays_service.xml" value="0.22" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_upload_image.xml" value="0.19375" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_user_profile.xml" value="0.22" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/activity_verify_phone_no.xml" value="0.19375" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/card_image.xml" value="0.33" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/card_mechanic_service.xml" value="0.33" />
+        <entry key="..\:/----------  Work  ----------/Coding/Android/Apps/Project/Geartocare_Ninja/app/src/main/res/layout/header.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
