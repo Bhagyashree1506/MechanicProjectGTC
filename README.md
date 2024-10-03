@@ -27,3 +27,5 @@ Contributions to this project are welcome. If you find a bug or have a feature r
 
 ## Developer
 - [Jay Birthariya](https://github.com/JayBirthariya581)
+
+- [Bhagyashree Chilate](https://github.com/Bhagyashree1506)
